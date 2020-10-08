@@ -7,14 +7,13 @@ Repository includes:
 * Juyter notebooks for assessing weather predictions
 * Relevant datasets, library requirements and pictures 
 
-<img src="sydney_rain.jpg">
-
 ### Wait, how certain you are that it's gonna rain or not in the Down Under? :kangaroo:
 
 Every day at 6pm(ish), Australia's favourite machine learning algorithm, Light GBM, will advise on whether aussies should leave their umbrellas home or not.
 
 Leveraging data from weather stations across the nation (Outback included!), Light GBM has an outstanding 80% accuracy on its forecasts by taking into account the widely variety of inherent climates features.
 
+<img src="sydney_rain.jpg">
 
 ### Given that last data on complaints, what are PagSeguro's main pain points according to its clients? :broken_heart:
 
