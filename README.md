@@ -32,7 +32,7 @@ Similarly to climbing Mt. Everest (or should I say Mt. Kosciuszko), our robot wa
 
 Curious to see these clusterings? Check it out!
 
-<img src="australia_tableau.JPG">
+<img src="aus_tableau.JPG">
 
 >* **Stream 4, PyCarat saved the day!**: Before Pycarat saved the day, dataset was split into 95/5 train-test/unseen datasets. Pycarat library was then responsible for coming up with the best machine learning algorithm. Light GBM, the chosen model, was then tuned to derive a better estimator for the problem
 
