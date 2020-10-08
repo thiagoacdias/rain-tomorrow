@@ -20,7 +20,7 @@ Leveraging data from weather stations across the nation (Outback included!), Lig
 **Glad you asked!** 
 Similarly to climbing Mt. Everest (or should I say Mt. Kosciuszko), our robot was performed by reaching two important milestones:
 
-## Phase 1 (aka reaching base camp :basecamp:): Defining a baseline model to predict whether it will rain or not:
+# Phase 1 (aka reaching base camp :basecamp:): Defining a baseline model to predict whether it will rain or not:
 
 **:warning: Technical lingo ahead!**
 * Baseline model was derived from X consecutive workstreams, available at the 'final_sprint' notebook:
@@ -42,7 +42,7 @@ Curious to see these clusterings? Check it out!
 
 This resulted in an impressive **80% recall score**, aiming at **83% accuracy**
 
-## Phase 2 (aka reaching the summit :mountain:): Tuning the model and making it available at Streamlit
+# Phase 2 (aka reaching the summit :mountain:): Tuning the model and making it available at Streamlit
 
 * Unfortunately, PyCarat did not actually save the day (or, should I say, we do not know how to use it) and its final estimator was quite suspicious to overfitting
 * Deciding to take the oldschool route, **sklearn then saved the day**: resulting in an impressive **X% recall score**, aiming at **Y% accuracy**
