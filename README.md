@@ -1,13 +1,13 @@
 # Will you have a G'-not rainy-DAY tomorrow, mate? :sunny: :sun_behind_small_cloud: :partly_sunny: :sun_behind_rain_cloud: :cloud_with_rain:
 
-<img src="imgs/gooday.jpg">
+<img src="gooday.jpg">
 
 Repository includes: 
 * Streamlit integration as a prediction to weather forecast
 * Juyter notebooks for assessing weather predictions
 * Relevant datasets, library requirements and pictures 
 
-<img src="imgs/sydney_rain.jpg">
+<img src="sydney_rain.jpg">
 
 ### Wait, how certain you are that it's gonna rain or not in the Down Under? :kangaroo:
 
