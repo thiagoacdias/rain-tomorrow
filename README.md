@@ -1,6 +1,6 @@
 # Will you have a G'-not rainy-DAY tomorrow, mate? :sunny: :sun_behind_small_cloud: :partly_sunny: :sun_behind_rain_cloud: :cloud_with_rain:
 
-<img src="gooday.jpg">
+<img src="imgs/gooday.jpg">
 
 Repository includes: 
 * Streamlit integration as a prediction to weather forecast
@@ -13,7 +13,7 @@ Every day at 6pm(ish), Australia's favourite machine learning algorithm, Light G
 
 Leveraging data from weather stations across the nation (Outback included!), Light GBM has an outstanding **~85% accuracy** on its forecasts by taking into account the widely variety of inherent climates features.
 
-<img src="sydney_rain.jpg">
+<img src="imgs/sydney_rain.jpg">
 
 ### RIPPER, mate! I'm curious now.... How does this robot work afterall? :robot:
 
@@ -32,7 +32,7 @@ Similarly to climbing Mt. Everest (or should I say Mt. Kosciuszko), our robot wa
 
 Curious to see these clusterings? Check it out!
 
-<img src="aus_tableau.JPG">
+<img src="imgs/aus_tableau.JPG">
 
 >* **Stream 4, PyCarat saved the day!**: Before Pycarat saved the day, dataset was split into 95/5 train-test/unseen datasets. Pycarat library was then responsible for coming up with the best machine learning algorithm. Light GBM, the chosen model, was then tuned to derive a better estimator for the problem
 
