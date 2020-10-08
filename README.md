@@ -2,7 +2,7 @@
 
 <img src="imgs/gooday.jpg">
 
-Repository includes: 
+Repository includes :folder:: 
 * Streamlit integration as a prediction to weather forecast
 * Juyter notebooks for assessing weather predictions
 * Relevant datasets, library requirements and pictures 
