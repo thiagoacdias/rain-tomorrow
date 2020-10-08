@@ -7,7 +7,7 @@ Repository includes :file_folder: :
 * Juyter notebooks for assessing weather predictions
 * Relevant datasets, library requirements and pictures 
 
-### Wait, how certain you are that it's gonna rain or not in the Down Under? :kangaroo:
+### Wait, how certain you are that it's gonna rain or not in the Down Under? :kangaroo: :koala:
 
 Every day at 6pm(ish), Australia's favourite machine learning algorithm, Light GBM, will advise on whether aussies should leave their umbrellas home or not.
 
@@ -18,7 +18,7 @@ Leveraging data from weather stations across the nation (Outback included!), Lig
 ### RIPPER, mate! I'm curious now.... How does this robot work afterall? :robot:
 
 **Glad you asked!** 
-Similarly to climbing Mt. Everest (or should I say Mt. Kosciuszko), our robot was performed by reaching two important milestones:
+Similarly to climbing Mt. Everest (or should I say Mt. Kosciuszko?), our robot was performed by reaching two important milestones:
 
 #### Phase 1 (aka reaching base camp :basecamp:): Defining a baseline model to predict whether it will rain or not:
 
