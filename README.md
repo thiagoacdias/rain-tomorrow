@@ -42,11 +42,11 @@ Curious to see these clusterings? Check it out!
 
 This resulted in an impressive **80% recall score**, aiming at **83% accuracy**
 
-#### Phase 2 (aka reaching the summit :mountain:): Tuning the model and making it available at Streamlit
+#### :construction: :construction: Phase 2 (aka reaching the summit :mountain:): Tuning the model and making it available at Streamlit - under construction
 
 * Unfortunately, PyCarat did not actually save the day (or, should I say, we do not know how to use it) and its final estimator was quite suspicious to overfitting
 * Deciding to take the oldschool route, **sklearn then saved the day**: resulting in an impressive **X% recall score**, aiming at **Y% accuracy**
-* **The final model was then versioned into Streamlit!** You can check it out at:
+* **The final model will be versioned into Streamlit!** You can check it out at:
 
 
 
